@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: #4CAF50;
+    font-family: Arial, sans-serif;
+    font-size: 2.5em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+p{
+    font-size: 35px;
+}
